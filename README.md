@@ -8,3 +8,4 @@ Upcoming Features Includes
 - Automatically converting voice to transcript
 - Detecting Transcript against the detector
 - Look for particular pitch, frequency and noise.
+- Hopefully in Future
